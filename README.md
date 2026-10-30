@@ -20,25 +20,45 @@
 ## 📁 项目结构
 
 HTML_final/
+
 ├── css/                      # 分页面独立样式文件
+
 │   ├── cart.css
+
 │   ├── homepage.css
+
 │   ├── login.css
+
 │   ├── login-new-user.css
+
 │   ├── login-user.css
+
 │   └── uu.css
+
 ├── fonts/                    # iconfont 图标字体
+
 │   ├── demo_index.html
+
 │   └── iconfont.ttf
+
 ├── images/                   # 全部页面图片素材
+
 ├── homepage.html             # 首页（入口）
+
 ├── mall.html                 # 商品列表页
+
 ├── cart.html                 # 购物车页面
+
 ├── login-user.html           # 用户登录页
+
 ├── login-new-user.html       # 新用户注册页
+
 ├── uu.html                   # 个人介绍页
+
 ├── README.md
+
 ├── .gitignore
+
 └── LICENSE
 
 ## 🎯 功能实现
