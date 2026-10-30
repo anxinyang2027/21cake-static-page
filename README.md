@@ -2,6 +2,8 @@
 
 ![21cake首页效果图](screenshot.png)
 
+🔗 在线预览：https://anxinyang2027.github.io/21cake-static-page/homepage.html
+
 > 纯前端静态练习项目，不包含后端与数据交互
 
 ## ✨ 项目介绍
